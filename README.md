@@ -6,3 +6,6 @@ Ayush Sharma
 
 # Student
 we can write student name here.
+
+# Friend
+you are my friend
